@@ -1,0 +1,19 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sg-lsm/instagram_backend.git"
+  },
+  "keywords": [],
+  "author": "lsm_sg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sg-lsm/instagram_backend/issues"
+  },
+  "homepage": "https://github.com/sg-lsm/instagram_backend#readme"
+}
