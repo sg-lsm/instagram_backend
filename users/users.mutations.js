@@ -33,8 +33,8 @@ export default {
             password: uglyPassword,
           },
         });
-      } catch(error) {
-        return error;
+      } catch(e) {
+        return e;
       }
     },
   },
