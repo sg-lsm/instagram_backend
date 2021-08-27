@@ -1,4 +1,4 @@
-import client from "../client";
+import client from "../../client";
 
 export default {
   Query: {
@@ -6,6 +6,10 @@ export default {
       client.user.findUnique({
         where: {
           username,
+        },
+        include: {
+          following: true,
+          followers: true,
         },
       }),
   },
