@@ -4,11 +4,11 @@ Instaclone Backend.
 
 @ Using
 
- - Backend: Apollo Server, GraphQL, Prisma Studio, Prisma Migrate, Prisma Client
+- Backend: Apollo Server, GraphQL, Prisma Studio, Prisma Migrate, Prisma Client
 
- - Frontend: Apollo, React, React Hook Form, Styled Components, React Hooks
+- Frontend: Apollo, React, React Hook Form, Styled Components, React Hooks
 
- - App: iOS & Android: React Native, Expo, React Native CLI, React Navigation, React Native Web
+- App: iOS & Android: React Native, Expo, React Native CLI, React Navigation, React Native Web
 
 ## User:
 
@@ -28,18 +28,18 @@ Instaclone Backend.
 
 - [x] Upload Photo (Parse #)
 - [x] See Photo
-- [] See Hashtag
-- [] Search Photos
-- [] Edit Photo
-- [] Like / Unlike Photo
-- [] See Photo Likes
-- [] See Feed
+- [x] See Hashtag
+- [x] Search Photos
+- [x] Edit Photo
+- [x] Like / Unlike Photo
+- [x] See Photo Likes
+- [x] See Feed
 - [] See Photo Comments
 - [] Delete Photo
 
 ## Comments
 
-- [] Comment on Photo
+- [x] Comment on Photo
 - [] Delete Comment
 - [] Edit Comment
 
