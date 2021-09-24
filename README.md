@@ -34,26 +34,26 @@ Instaclone Backend.
 - [x] Like / Unlike Photo
 - [x] See Photo Likes
 - [x] See Feed
-- [] See Photo Comments
-- [] Delete Photo
+- [x] See Photo Comments
+- [x] Delete Photo
 
 ## Comments
 
 - [x] Comment on Photo
-- [] Delete Comment
-- [] Edit Comment
+- [x] Delete Comment
+- [x] Edit Comment
 
 ## Refactor
 
-- [] Mutation Responses
+- [x] Mutation Responses
 
 ## Etras
 
-- [] S3 Image Upload
+- [x] S3 Image Upload
 
 ## DMs
 
-- [] See Rooms
+- [x] See Rooms
 - [] Send Message (Create Room)
 - [] See Room
 - [] Computed Fields
